@@ -8,3 +8,44 @@ html {
 body {
   margin: 0;
 }
+
+header {
+  background-color: #2C4947;
+}
+
+#aiga {
+  background-color: #536563;
+  width: 100%;
+  position: relative;
+  bottom: 4px;
+  padding-top: 4px;
+}
+
+#aiga_image {
+  margin-left: 55px;
+}
+
+#reg_bird {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+h1 {
+  font-family: Rockwell, 'Courier Bold', Courier, Georgia, Times, 'Times New Roman', serif;
+  font-weight: normal;
+  margin-right: 20px;
+  margin-left: 20px;
+  color: darkslategray;
+  font-size: 22pt;
+  line-height: 1.5;
+}
+
+p {
+  font-family: Rockwell, 'Courier Bold', Courier, Georgia, Times, 'Times New Roman', serif;
+  margin-right: 25px;
+  margin-left: 25px;
+  font-weight: normal;
+  line-height: 1.75;
+  color: gray;
+  font-size: 12pt;
+}
