@@ -40,6 +40,14 @@ h1 {
   line-height: 1.5;
 }
 
+h2 {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 14pt;
+  text-align: center;
+  color: #709B4B;
+  font-weight: bold;
+}
+
 p {
   font-family: Rockwell, 'Courier Bold', Courier, Georgia, Times, 'Times New Roman', serif;
   margin-right: 25px;
@@ -63,4 +71,17 @@ p {
 .center {
   text-align: center;
   margin-bottom: 50px;
+}
+
+#entrepreneur {
+  margin-left: 95px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.brown {
+  color: saddlebrown;
+  text-align: center;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  margin: 10px;
 }
