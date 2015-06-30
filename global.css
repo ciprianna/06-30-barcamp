@@ -48,6 +48,17 @@ h2 {
   font-weight: bold;
 }
 
+h3 {
+  font-family: Rockwell, 'Courier Bold', Courier, Georgia, Times, 'Times New Roman', serif;
+  color: white;
+  text-align: center;
+  margin: 15px;
+  margin-top: 0;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
 p {
   font-family: Rockwell, 'Courier Bold', Courier, Georgia, Times, 'Times New Roman', serif;
   margin-right: 25px;
@@ -90,4 +101,39 @@ hr {
   margin-top: 100px;
   margin-bottom: 40px;
   opacity: 0.5;
+}
+
+#wood_grain {
+    background-image: url("./assets/part 3/wood-bg.png");
+}
+
+#event {
+  width: 75%;
+  margin-top: 75px;
+  margin-bottom: 60px;
+  margin-left: 45px;
+}
+
+.yellow {
+  color: goldenrod;
+  font-size: 28pt;
+  text-align: center;
+  margin-bottom: 5pt;
+}
+
+.circle:first-line {
+  font-size: 30pt;
+}
+
+.circle {
+  line-height: 1.2;
+  border: solid tomato;
+  border-radius: 50%;
+  width: 90px;
+  margin-left: 135px;
+  padding: 3pt;
+}
+
+.circle_div {
+  height: 95px;
 }
