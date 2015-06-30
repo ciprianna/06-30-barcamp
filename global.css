@@ -59,6 +59,18 @@ h3 {
   line-height: 1.5;
 }
 
+h4 {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 10pt;
+  text-align: center;
+  color: white;
+  font-weight: normal;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 7px;
+  line-height: 1.25;
+}
+
 p {
   font-family: Rockwell, 'Courier Bold', Courier, Georgia, Times, 'Times New Roman', serif;
   margin-right: 25px;
@@ -136,4 +148,12 @@ hr {
 
 .circle_div {
   height: 95px;
+  margin-top: 60px;
+}
+
+.events {
+  color: white;
+  font-weight: normal;
+  font-size: 16pt;
+  margin-bottom: 5px;
 }
