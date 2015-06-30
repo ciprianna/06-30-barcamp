@@ -49,3 +49,13 @@ p {
   color: gray;
   font-size: 12pt;
 }
+
+.line {
+  width: 26px;
+}
+
+#dashes {
+  margin: 5px;
+  margin-top: 75px;
+  margin-bottom: 75px;
+}
