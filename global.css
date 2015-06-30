@@ -85,3 +85,8 @@ p {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   margin: 10px;
 }
+
+hr {
+  margin-top: 75px;
+  margin-bottom: 50px;
+}
