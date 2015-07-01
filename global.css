@@ -103,9 +103,11 @@ p {
 }
 
 .speaking_topics {
-  margin-left: 95px;
+  margin-left: auto;
   margin-top: 15px;
   margin-bottom: 15px;
+  margin-right: auto;
+  display: block;
 }
 
 .brown {
@@ -126,10 +128,13 @@ hr {
 }
 
 #event {
-  width: 75%;
+  width: 300px;
   margin-top: 75px;
   margin-bottom: 60px;
-  margin-left: 45px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-top: 75px;
 }
 
 .yellow {
@@ -148,8 +153,9 @@ hr {
   border: solid tomato;
   border-radius: 50%;
   width: 80px;
-  margin-left: 145px;
+  margin-left: auto;
   padding: 3pt;
+  margin-right: auto;
 }
 
 .circle_div {
