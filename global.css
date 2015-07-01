@@ -174,15 +174,6 @@ hr {
   background: #CAECF8;
 }
 
-#faq {
-  font-size: 56pt;
-  color: #603812;
-  text-align: center;
-  margin-top: 0px;
-  padding-top: 50px;
-  margin-bottom: 10px;
-}
-
 ul {
   list-style-image: url("./assets/part_4/plus-bullet.png");
   color: #603812;
@@ -213,4 +204,10 @@ a {
   display: inline-block;
   margin-top: 355px;
   margin-left: 85px;
+}
+
+#faq {
+  padding-left: 70px;
+  padding-top: 50px;
+  padding-bottom: 30px;
 }
