@@ -193,3 +193,24 @@ ul {
   margin-right: 20px;
   line-height: 2.5;
 }
+
+#register_img {
+  position: relative;
+  bottom: 4px;
+}
+
+#register {
+  background-image: url("./assets/part_5/register.png");
+  height: 695px;
+  width: 370px;
+  position: relative;
+  bottom: 4px;
+}
+
+a {
+  width: 200px;
+  height: 75px;
+  display: inline-block;
+  margin-top: 355px;
+  margin-left: 85px;
+}
