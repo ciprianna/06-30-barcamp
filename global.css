@@ -169,3 +169,27 @@ hr {
 #last_event {
   padding-bottom: 100px;
 }
+
+#light_blue {
+  background: #CAECF8;
+}
+
+#faq {
+  font-size: 56pt;
+  color: #603812;
+  text-align: center;
+  margin-top: 0px;
+  padding-top: 50px;
+}
+
+.faqs {
+  color: #603812;
+  font-size: 16pt;
+  text-align: left;
+  margin-left: 10px;
+  display: inline-block;
+}
+
+.bullet {
+  margin-left: 10px;
+}
