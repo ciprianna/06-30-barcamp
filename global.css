@@ -180,16 +180,16 @@ hr {
   text-align: center;
   margin-top: 0px;
   padding-top: 50px;
+  margin-bottom: 10px;
 }
 
-.faqs {
+ul {
+  list-style-image: url("./assets/part_4/plus-bullet.png");
   color: #603812;
+  font-family: Rockwell, 'Courier Bold', Courier, Georgia, Times, 'Times New Roman', serif;
   font-size: 16pt;
-  text-align: left;
-  margin-left: 10px;
   display: inline-block;
-}
-
-.bullet {
-  margin-left: 10px;
+  padding-left: 50px;
+  margin-right: 20px;
+  line-height: 2.5;
 }
