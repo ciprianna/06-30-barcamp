@@ -15,14 +15,18 @@ header {
 
 #aiga {
   background-color: #536563;
-  width: 100%;
+  padding-top:2px;
+  height:61px;
+  width:370px;
   position: relative;
   bottom: 4px;
-  padding-top: 4px;
 }
 
 #aiga_image {
-  margin-left: 55px;
+  display: block;
+  margin: 0 auto;
+  width: 260px;
+  height: 57px;
 }
 
 #reg_bird {
